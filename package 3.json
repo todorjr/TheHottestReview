@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@angular/cli": "^13.1.2"
+  },
+  "devDependencies": {
+    "run-script-os": "^1.1.6"
+  }
+}
